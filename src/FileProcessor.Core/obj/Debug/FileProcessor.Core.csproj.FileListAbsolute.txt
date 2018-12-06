@@ -1,0 +1,16 @@
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\bin\Debug\FileProcessor.Core.dll
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\bin\Debug\FileProcessor.Core.pdb
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\bin\Debug\CsvHelper.dll
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\bin\Debug\CsvHelper.xml
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.dll
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.pdb
+D:\Projects\FileProcessor\src\FileProcessor.Core\bin\Debug\FileProcessor.Core.dll
+D:\Projects\FileProcessor\src\FileProcessor.Core\bin\Debug\FileProcessor.Core.pdb
+D:\Projects\FileProcessor\src\FileProcessor.Core\bin\Debug\CsvHelper.dll
+D:\Projects\FileProcessor\src\FileProcessor.Core\bin\Debug\CsvHelper.xml
+D:\Projects\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.csproj.CoreCompileInputs.cache
+D:\Projects\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.csproj.CopyComplete
+D:\Projects\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.dll
+D:\Projects\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.pdb
+D:\Projects\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.csprojAssemblyReference.cache
+C:\Users\suvhun\Documents\HR\FileProcessor\src\FileProcessor.Core\obj\Debug\FileProcessor.Core.csprojResolveAssemblyReference.cache
